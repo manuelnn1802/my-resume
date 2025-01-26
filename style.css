@@ -1,0 +1,42 @@
+.center {
+    text-align: center;
+    font-family: "Poppins", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.text {
+    font-family: "Poppins", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.imagen-centro {
+    margin-left: 555px ;
+    height: 400px;
+}
+
+html {
+    background-color: #F2EFE7;
+}
+
+.div-2 {
+    text-align: center;
+    background-color: #48A6A7;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+.div-1 {
+    background-color: #48A6A7;
+}
+
+div {
+    background-color: #9ACBD0;
+}
+.div-3 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
